@@ -1,0 +1,36 @@
+# requirements.txt
+
+# Core Framework
+streamlit==1.31.0
+
+# Document Parsing
+PyPDF2==3.0.1
+python-docx==1.1.0
+pdfplumber==0.10.3
+
+# NLP Libraries
+spacy==3.7.2
+nltk==3.8.1
+
+# LLM Integration
+openai==1.12.0
+anthropic==0.18.1
+
+# PDF Generation
+reportlab==4.1.0
+fpdf2==2.7.8
+
+# Data Handling
+pandas==2.2.0
+numpy==1.26.3
+
+# Language Detection & Translation
+langdetect==1.0.9
+googletrans==4.0.0-rc1
+
+# Utilities
+python-dotenv==1.0.1
+uuid==1.30
+datetime
+json
+re

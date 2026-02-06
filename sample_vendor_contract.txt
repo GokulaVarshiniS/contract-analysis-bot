@@ -1,0 +1,91 @@
+VENDOR SUPPLY AGREEMENT
+
+Agreement Date: February 1, 2025
+Agreement Number: VSA/2025/001
+
+BETWEEN:
+XYZ Manufacturing Ltd., having its registered office at 789 Industrial Area, 
+Pune, Maharashtra 411001 (hereinafter referred to as the "Buyer")
+
+AND:
+Quality Supplies Pvt. Ltd., having its registered office at 321 Commerce Hub, 
+Mumbai, Maharashtra 400001 (hereinafter referred to as the "Vendor")
+
+1. SCOPE OF SUPPLY
+The Vendor agrees to supply raw materials including steel sheets, aluminum rods, 
+and copper wires as per specifications in Annexure A. All materials must meet 
+IS standards and quality requirements.
+
+2. CONTRACT VALUE AND PRICING
+Total Contract Value: INR 50,00,000 (Fifty Lakhs Rupees)
+Unit prices are fixed for 12 months from the date of this agreement.
+GST @ 18% shall be charged separately as applicable.
+
+3. DELIVERY TERMS
+Delivery Location: Buyer's warehouse at Pune
+Delivery Schedule: As per monthly purchase orders
+Delivery Time: Within 15 days of purchase order
+The Vendor shall bear all transportation and insurance costs until delivery.
+
+4. PAYMENT TERMS
+Payment shall be made within 45 days of receipt of invoice and satisfactory 
+delivery. A 2% early payment discount is available for payments within 15 days.
+Late payments shall attract interest at 18% per annum.
+
+5. QUALITY ASSURANCE
+All materials must meet specified quality standards. The Buyer reserves the 
+right to inspect and reject non-conforming materials within 7 days of delivery.
+Rejected materials shall be replaced at the Vendor's cost within 10 days.
+
+6. WARRANTIES
+The Vendor warrants that all materials shall be free from defects for 12 months 
+from delivery. The Vendor shall replace defective materials at no additional cost.
+
+7. PENALTY CLAUSE
+Late delivery penalty: 1% of order value per week, maximum 10%
+Quality rejection penalty: 5% of rejected material value
+Repeated quality failures may result in contract termination.
+
+8. INDEMNITY
+The Vendor shall indemnify the Buyer against all claims, losses, and damages 
+arising from defective materials or breach of this Agreement, including 
+consequential damages and loss of profit.
+
+9. TERMINATION
+Either party may terminate with 30 days written notice.
+The Buyer may terminate immediately if the Vendor fails to meet quality 
+standards on three consecutive occasions.
+Upon termination, all pending orders shall be completed.
+
+10. FORCE MAJEURE
+Neither party shall be liable for delays due to acts of God, natural disasters, 
+war, government actions, or circumstances beyond reasonable control. The 
+affected party must notify within 48 hours.
+
+11. CONFIDENTIALITY
+Both parties agree to maintain confidentiality of pricing, specifications, and 
+business information for 3 years after contract termination.
+
+12. LIMITATION OF LIABILITY
+The Vendor's total liability shall not exceed the total contract value. Neither 
+party shall be liable for indirect, consequential, or punitive damages.
+
+13. DISPUTE RESOLUTION
+Disputes shall first be resolved through negotiation. Unresolved disputes shall 
+be referred to arbitration in Mumbai under Indian Arbitration Act.
+
+14. GOVERNING LAW
+This Agreement is governed by the laws of India. Courts in Mumbai shall have 
+exclusive jurisdiction.
+
+15. ENTIRE AGREEMENT
+This Agreement constitutes the entire understanding between parties and 
+supersedes all prior negotiations and agreements.
+
+Signed:
+
+For XYZ Manufacturing Ltd.              For Quality Supplies Pvt. Ltd.
+_______________________                  _______________________
+Name:                                    Name:
+Designation:                             Designation:
+Date:                                    Date:

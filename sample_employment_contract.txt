@@ -1,0 +1,78 @@
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement ("Agreement") is entered into on January 15, 2025
+
+BETWEEN:
+ABC Technologies Pvt. Ltd., a company registered under the Companies Act, 2013, 
+having its registered office at 123 Tech Park, Bangalore, Karnataka 560001 
+(hereinafter referred to as the "Employer")
+
+AND:
+Mr. Rajesh Kumar, residing at 456 Green Valley Apartments, HSR Layout, 
+Bangalore, Karnataka 560102 (hereinafter referred to as the "Employee")
+
+1. POSITION AND DUTIES
+The Employee shall serve as Senior Software Developer and shall perform duties 
+as assigned by the Employer including software development, code review, and 
+team collaboration.
+
+2. COMPENSATION
+The Employee shall receive a monthly salary of INR 1,50,000 (One Lakh Fifty 
+Thousand Rupees), payable on the last working day of each month, subject to 
+applicable tax deductions including TDS, PF, and ESI contributions.
+
+3. WORKING HOURS
+The Employee shall work 45 hours per week, from 9:00 AM to 6:00 PM, Monday 
+through Friday, with reasonable flexibility as required by project demands.
+
+4. PROBATION PERIOD
+The Employee shall be on probation for a period of 6 months from the date of 
+joining. During this period, either party may terminate with 15 days notice.
+
+5. LEAVE POLICY
+The Employee shall be entitled to 18 days of paid leave per year, in addition 
+to public holidays as per the company policy.
+
+6. TERMINATION
+Either party may terminate this agreement by providing 90 days written notice. 
+The Employer may terminate immediately for cause, including misconduct, breach 
+of contract, or poor performance. Upon termination, the Employee shall return 
+all company property including laptop, access cards, and confidential documents.
+
+7. NON-COMPETE CLAUSE
+The Employee agrees not to engage in any business that directly competes with 
+the Employer for a period of 12 months after termination within India. The 
+Employee shall not solicit any clients or employees of the Employer.
+
+8. CONFIDENTIALITY
+The Employee agrees to maintain strict confidentiality of all proprietary 
+information, trade secrets, client data, and business strategies during and 
+after employment for a period of 5 years. Violation of this clause shall 
+result in liquidated damages of INR 10,00,000.
+
+9. INTELLECTUAL PROPERTY
+All work product, inventions, code, and intellectual property created during 
+employment shall be the sole property of the Employer. The Employee hereby 
+assigns all rights irrevocably to the Employer.
+
+10. INDEMNIFICATION
+The Employee shall indemnify and hold harmless the Employer from any claims, 
+damages, or liabilities arising from the Employee's negligence or breach of 
+this Agreement.
+
+11. DISPUTE RESOLUTION
+Any disputes arising from this Agreement shall be resolved through arbitration 
+in Bangalore under the Arbitration and Conciliation Act, 1996. The decision of 
+the arbitrator shall be final and binding.
+
+12. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws 
+of India. The courts of Bangalore shall have exclusive jurisdiction.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date 
+first written above.
+
+For ABC Technologies Pvt. Ltd.          Employee
+_______________________                  _______________________
+Authorized Signatory                     Rajesh Kumar
+Date: _______________                    Date: _______________

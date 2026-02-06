@@ -1,0 +1,31 @@
+SERVICE CONTRACT
+
+Date: January 1, 2025
+
+Between: ABC Company Ltd (Client)
+And: XYZ Services Pvt Ltd (Provider)
+
+1. SERVICES: Provider shall deliver software development services.
+
+2. PAYMENT: Client shall pay INR 5,00,000 within 30 days of invoice.
+
+3. PENALTY: Late payment attracts 2% monthly interest. Provider may 
+suspend services if payment is delayed beyond 60 days.
+
+4. TERMINATION: Either party may terminate with 30 days notice. Client 
+shall pay for all work completed. Provider may terminate immediately 
+if payment is not received within 90 days.
+
+5. INDEMNITY: Client shall indemnify Provider against all claims and 
+shall hold Provider harmless from any liability.
+
+6. LIMITATION: Provider's total liability shall not exceed fees paid.
+
+7. NON-COMPETE: Client shall not hire Provider's employees for 1 year.
+
+8. CONFIDENTIALITY: Both parties shall maintain confidentiality for 5 years.
+
+9. JURISDICTION: Courts of Mumbai, India shall have exclusive jurisdiction.
+Disputes shall be resolved through binding arbitration.
+
+Signed by both parties on the date first written above.
