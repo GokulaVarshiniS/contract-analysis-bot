@@ -1,0 +1,21 @@
+{
+  "analysis_date": "2026-02-06 15:49:17",
+  "file_name": "sample_employment_contract.txt",
+  "contract_type": "Employment Agreement",
+  "health_score": 440,
+  "health_rating": "Very Poor",
+  "balance_score": 50.0,
+  "red_flags": 3,
+  "clauses_analyzed": 13,
+  "unfavorable_terms": [
+    "\ud83d\udeab Non-Compete Clause",
+    "\u26a0\ufe0f Indemnification Clause",
+    "\u2696\ufe0f Mandatory Arbitration"
+  ],
+  "benchmarks": {
+    "notice_period": "30-90 days",
+    "probation": "3-6 months",
+    "non_compete": "6-12 months",
+    "confidentiality": "2-5 years after exit"
+  }
+}
